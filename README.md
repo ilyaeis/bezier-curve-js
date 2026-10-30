@@ -2,6 +2,10 @@
 
 This is my first JavaScript project where I aimed to create beautiful art using bezier curves. I couldn't find any existing solutions on the web, so I decided to build it myself.
 
+## Run
+
+Open `index.html` in a browser. No build step is needed. To serve it locally, run `python -m http.server` in this folder.
+
 # Idea
 
 The idea behind this project was to explore the artistic possibilities of bezier curves. By manipulating control points and curves, I wanted to create visually appealing and unique art pieces. The program allows users to interactively create, modify, and delete points, resulting in stunning artwork like the image below:
